@@ -7,7 +7,6 @@ Estudos DIO sobre Stream API.
 - Function<T, R>
 - Predicate< T >
 - BinaryOperator< T >
-- Class Optional< T >
 
 ### Professora 
 Camila Cavalcante - https://github.com/cami-la
